@@ -15,7 +15,7 @@ Password: teste
 Para ver o video da Aplicação pode aceder ao seguinte link: https://www.youtube.com/watch?v=2GishrxSrDs
 
 # Paços para instalar a App
-No entanto é possivel descarregar o ficheiro chamado Operational Risk Management, tendo este ficheiro no seu computador, terá de ir ao site do Outsystems https://www.outsystems.com/Platform/Signup criar uma conta. 
+No entanto é possivel descarregar o ficheiro chamado OperationalRiskManagement.oap, tendo este ficheiro no seu computador, terá de ir ao site do Outsystems https://www.outsystems.com/Platform/Signup criar uma conta. 
 
 Após seguir os paços no ecran vai aparecer para fazer o download do service studio
 ![image](https://user-images.githubusercontent.com/43983639/164987999-3e848cce-eb7e-450c-adf4-f78bc09235ba.png)
