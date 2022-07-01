@@ -12,7 +12,7 @@ Password: teste
 
 
 # Link do video 
-Para ver o video da Aplicação pode aceder ao seguinte link: https://www.youtube.com/watch?v=2GishrxSrDs
+Para ver o video da Aplicação pode aceder ao seguinte link: https://www.youtube.com/watch?v=79esxYAeh2E
 
 # Paços para instalar a App
 No entanto é possivel descarregar o ficheiro chamado Operational Risk Management.oap que se encontra neste repositório, tendo este ficheiro no seu computador, terá de ir ao site do Outsystems https://www.outsystems.com/Platform/Signup e criar uma conta. 
